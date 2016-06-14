@@ -1,0 +1,17 @@
+{
+  "name": "simnpleserver",
+  "version": "1.0.0",
+  "description": "this is the simple server made in nodejs.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "keywords": [
+    "nodejs",
+    "javascript",
+    "server"
+  ],
+  "author": "Vivek Sharma",
+  "license": "GPL-3.0"
+}
